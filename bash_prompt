@@ -1,0 +1,20 @@
+#!/bin/bash
+
+
+bold = $(tput bold)
+red = $(tput setaf 160)
+yellow = $(tput setaf 226)
+blue = $(tput setaf 33)
+white  = $(tput setaf 255)
+purple = $(tput setaf 201)
+reset = $(tput sgr0)
+
+
+PS1="\[${bold}\]\n"              # sets the command prompt to bold
+PS1+="\[${red}\]\u";             # red user
+PS1+="\[${yellow}\]@\h ";        # yellow host
+PS1+="\[${white}\]in ";          
+PS1+="\[${blue}\]\W ";           # blue directory
+PS1+="\[${purple}\]\n>"
+PS1+="\[$(tput sgr0)\]";         # resets the prompt color
+export PS1;
