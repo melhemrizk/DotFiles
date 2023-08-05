@@ -1,13 +1,13 @@
 #!/bin/bash
 
 
-bold = $(tput bold)
-red = $(tput setaf 160)
-yellow = $(tput setaf 226)
-blue = $(tput setaf 33)
-white  = $(tput setaf 255)
-purple = $(tput setaf 201)
-reset = $(tput sgr0)
+bold=$(tput bold)
+red=$(tput setaf 160)
+yellow=$(tput setaf 226)
+blue=$(tput setaf 33)
+white =$(tput setaf 255)
+purple=$(tput setaf 201)
+reset=$(tput sgr0)
 
 
 PS1="\[${bold}\]\n"              # sets the command prompt to bold
