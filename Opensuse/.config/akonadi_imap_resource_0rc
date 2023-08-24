@@ -1,0 +1,17 @@
+[cache]
+AccountIdentity=1806119164
+DisconnectedModeEnabled=false
+IntervalCheckTime=60
+TrashCollection=10
+TrashCollectionMigrated=true
+
+[idle]
+IdleRidPath=/INBOX,imap://melhem@melhemrizk.com@mail.gandi.net/
+
+[network]
+Authentication=7
+ImapPort=143
+ImapServer=mail.gandi.net
+Safety=STARTTLS
+SubscriptionEnabled=true
+UserName=melhem@melhemrizk.com

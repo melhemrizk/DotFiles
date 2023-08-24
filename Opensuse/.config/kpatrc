@@ -1,0 +1,22 @@
+[General Settings]
+Cardname=svg-ramino
+
+[KgTheme]
+Theme=themes/greenblaze.desktop
+
+[MainWindow]
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAOAAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1 Window-Maximized 1920x1080 eDP-1=true
+
+[Notification Messages]
+careaboutstats=false
+
+[Scores]
+loosestreak8=2
+maxloosestreak8=5
+maxwinstreak8=8
+minmoves8=250
+total8=161
+winstreak8=0
+won8=102

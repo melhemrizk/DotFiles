@@ -1,0 +1,33 @@
+Visual Studio Code (1.81.1, undefined, desktop)
+Jupyter Extension Version: 2023.7.1002162226.
+Python Extension Version: 2023.14.0.
+Platform: linux (x64).
+Workspace folder ~/Documents/CodingProjects/Regression, Home = /home/blackbird
+20:58:50.873 [info] User belongs to experiment group 'FastKernelPicker'
+20:58:50.874 [info] User belongs to experiment group 'NewRemoteUriStorage'
+20:58:50.874 [info] User belongs to experiment group 'PasswordManager'
+20:58:50.874 [info] User belongs to experiment group 'NewJupyterSession'
+20:58:51.428 [info] Start refreshing Kernel Picker (1692640731428)
+20:58:51.432 [info] Using Pylance
+20:58:51.587 [info] Start refreshing Interpreter Kernel Picker
+20:58:52.526 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0163ae9de86cdc0f9ab2396f62f1ebf76e18b8456837acca1cebd3b1abfed9552.~/Documents/CodingProjects/Regression/envs/python.~/Documents/CodingProjects/Regression/envs/python.-m#ipykernel_launcher  (Python Path: ~/Documents/CodingProjects/Regression/envs/bin/python, Conda, 3.11.4) for '~/Documents/CodingProjects/Regression/boston.ipynb' (disableUI=true)
+20:58:52.560 [warn] Failed to get activated env vars for /usr/bin/python3 in 649ms
+20:58:52.582 [info] Process Execution: /usr/bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+20:58:52.623 [info] Process Execution: /usr/bin/python3 -m pip list
+20:58:54.357 [info] Process Execution: ~/Documents/CodingProjects/Regression/envs/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+20:58:54.365 [info] Process Execution: ~/Documents/CodingProjects/Regression/envs/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"47872afd-2f90-4b2f-9729-8ffcdce68271" --shell=9002 --transport="tcp" --iopub=9004 --f=~/.local/share/jupyter/runtime/kernel-v2-124322oNzKtB8iD0S.json
+    > cwd: ~/Documents/CodingProjects/Regression
+20:58:54.383 [info] Process Execution: ~/Documents/CodingProjects/Regression/envs/bin/python -m pip list
+20:58:54.492 [info] End refreshing Kernel Picker (1692640731428)
+20:58:54.587 [info] ipykernel version & path 6.25.0, ~/Documents/CodingProjects/Regression/envs/lib/python3.11/site-packages/ipykernel/__init__.py for ~/Documents/CodingProjects/Regression/envs/bin/python
+20:58:55.044 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+20:58:55.044 [warn] StdErr from Kernel Process 0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+20:58:55.128 [warn] StdErr from Kernel Process ~/Documents/CodingProjects/Regression/envs/lib/python3.11/site-packages/traitlets/traitlets.py:2544: FutureWarning: Supporting extra quotes around strings is deprecated in traitlets 5.0. You can use 'hmac-sha256' instead of '"hmac-sha256"' if you require traitlets >=5.
+  warn(
+20:58:55.129 [warn] StdErr from Kernel Process ~/Documents/CodingProjects/Regression/envs/lib/python3.11/site-packages/traitlets/traitlets.py:2495: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use '47872afd-2f90-4b2f-9729-8ffcdce68271' instead of 'b"47872afd-2f90-4b2f-9729-8ffcdce68271"'.
+  warn(
+20:58:57.147 [info] Started Kernel envs (Python 3.11.4) (pid: 12649)
+20:58:57.147 [info] Started new session 9c339d8e-72a2-436b-976e-6a2e5beb2da3
+20:58:57.193 [info] Process Execution: ~/Documents/CodingProjects/Regression/envs/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2023.7.1002162226-linux-x64/pythonFiles/printJupyterDataDir.py

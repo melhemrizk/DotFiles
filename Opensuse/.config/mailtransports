@@ -1,0 +1,11 @@
+[General]
+default-transport=186464253
+
+[Transport 186464253]
+auth=true
+encryption=SSL
+host=mail.gandi.net
+id=186464253
+name=mail.gandi.net
+storepass=true
+user=melhem@melhemrizk.com

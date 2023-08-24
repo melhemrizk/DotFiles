@@ -1,0 +1,33 @@
+Visual Studio Code (1.81.1, undefined, desktop)
+Jupyter Extension Version: 2023.7.1002162226.
+Python Extension Version: 2023.14.0.
+Platform: linux (x64).
+Workspace folder ~/Documents/CodingProjects/Regression, Home = /home/blackbird
+21:14:51.932 [info] User belongs to experiment group 'FastKernelPicker'
+21:14:51.933 [info] User belongs to experiment group 'NewRemoteUriStorage'
+21:14:51.933 [info] User belongs to experiment group 'PasswordManager'
+21:14:51.933 [info] User belongs to experiment group 'NewJupyterSession'
+21:14:52.496 [info] Start refreshing Kernel Picker (1692728092496)
+21:14:52.500 [info] Using Pylance
+21:14:52.532 [info] Start refreshing Interpreter Kernel Picker
+21:14:55.553 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0163ae9de86cdc0f9ab2396f62f1ebf76e18b8456837acca1cebd3b1abfed9552.~/Documents/CodingProjects/Regression/envs/python.~/Documents/CodingProjects/Regression/envs/python.-m#ipykernel_launcher  (Python Path: ~/Documents/CodingProjects/Regression/envs/bin/python, Conda, 3.11.4) for '~/Documents/CodingProjects/Regression/boston.ipynb' (disableUI=true)
+21:14:55.616 [warn] Failed to get activated env vars for /usr/bin/python3 in 1098ms
+21:14:55.629 [info] Process Execution: /usr/bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+21:14:55.861 [info] Process Execution: /usr/bin/python3 -m pip list
+21:15:02.249 [info] Disposing HostJupyterExecution
+21:15:02.249 [info] Shutting down notebooks for 2643c68a-3865-4f22-bdde-e5b98fd54cd4
+21:15:02.249 [info] Dispose Kernel '~/Documents/CodingProjects/Regression/boston.ipynb' associated with '~/Documents/CodingProjects/Regression/boston.ipynb'
+21:15:02.249 [info] Disposing HostJupyterExecution
+21:15:02.256 [info] Dispose Kernel '~/Documents/CodingProjects/Regression/boston.ipynb' associated with '~/Documents/CodingProjects/Regression/boston.ipynb'
+21:15:02.256 [info] Dispose Kernel process undefined.
+21:15:02.256 [error] Kernel Launcher. launch, Class name = Ky, completed in 6690ms, has a falsy return value, Arg 1: "~/Documents/CodingProjects/Regression/envs/python.~/Documents/CodingProjects/Regression/envs/python.-m#ipykernel_launcher", Arg 2: 60000, Arg 3: "~/Documents/CodingProjects/Regression/boston.ipynb", Arg 4: "~/Documents/CodingProjects/Regression", Arg 5: "" [Canceled: Canceled
+	at e.throwIfCanceled (~/.vscode/extensions/ms-toolsai.jupyter-2023.7.1002162226-linux-x64/out/extension.node.js:2:1745170)
+	at Ky.launchProcess (~/.vscode/extensions/ms-toolsai.jupyter-2023.7.1002162226-linux-x64/out/extension.node.js:24:101971)
+	at async ~/.vscode/extensions/ms-toolsai.jupyter-2023.7.1002162226-linux-x64/out/extension.node.js:24:100416]
+21:15:02.268 [warn] Failed to delete connection file file://~/.local/share/jupyter/runtime/kernel-v2-8848Mnbf0uL2v9kh.json for pid undefined [Canceled (FileSystemError): Canceled
+	at ii.e (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:27046)
+	at Object.stat (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:104:23749)
+	at async Au.delete (~/.vscode/extensions/ms-toolsai.jupyter-2023.7.1002162226-linux-x64/out/extension.node.js:17:19371)
+	at async ~/.vscode/extensions/ms-toolsai.jupyter-2023.7.1002162226-linux-x64/out/extension.node.js:24:93299] {
+  code: 'Unknown'
+}

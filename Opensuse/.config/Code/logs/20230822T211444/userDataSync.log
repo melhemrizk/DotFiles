@@ -1,0 +1,22 @@
+2023-08-22 21:14:49.086 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2023-08-22 21:14:49.086 [info] Auto Sync is enabled.
+2023-08-22 21:14:49.086 [info] Auto Sync: Suspended until auth token is available.
+2023-08-22 21:14:51.874 [info] Deleting non existing profile from backup /home/blackbird/.config/Code/User/sync/extensions
+2023-08-22 21:14:51.884 [info] Deleting non existing profile from backup /home/blackbird/.config/Code/User/sync/globalState
+2023-08-22 21:14:51.885 [info] Deleting non existing profile from backup /home/blackbird/.config/Code/User/sync/keybindings
+2023-08-22 21:14:51.886 [info] Deleting non existing profile from backup /home/blackbird/.config/Code/User/sync/profiles
+2023-08-22 21:14:51.887 [info] Deleting non existing profile from backup /home/blackbird/.config/Code/User/sync/settings
+2023-08-22 21:14:51.888 [info] Deleting non existing profile from backup /home/blackbird/.config/Code/User/sync/snippets
+2023-08-22 21:14:51.888 [info] Deleting non existing profile from backup /home/blackbird/.config/Code/User/sync/tasks
+2023-08-22 21:14:55.481 [info] Auto Sync: Triggered by Interval
+2023-08-22 21:14:55.481 [info] Sync started.
+2023-08-22 21:14:58.366 [info] Settings: Last sync resource does not exist locally.
+2023-08-22 21:14:59.247 [info] Settings: No changes found during synchronizing settings.
+2023-08-22 21:14:59.257 [info] Keybindings: Last sync resource does not exist locally.
+2023-08-22 21:14:59.637 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-08-22 21:14:59.639 [info] Snippets: Last sync resource does not exist locally.
+2023-08-22 21:15:01.398 [info] Snippets: No changes found during synchronizing snippets.
+2023-08-22 21:15:01.402 [info] Tasks: Last sync resource does not exist locally.
+2023-08-22 21:15:01.943 [info] Tasks: No changes found during synchronizing tasks.
+2023-08-22 21:15:01.944 [info] GlobalState: Last sync resource does not exist locally.
+2023-08-22 21:15:02.352 [info] GlobalState: Last sync resource does not exist locally.

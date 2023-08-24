@@ -1,0 +1,38 @@
+Visual Studio Code (1.81.1, undefined, desktop)
+Jupyter Extension Version: 2023.7.1002162226.
+Python Extension Version: 2023.14.0.
+Platform: linux (x64).
+Workspace folder ~/Documents/CodingProjects/Regression, Home = /home/blackbird
+23:39:41.533 [info] User belongs to experiment group 'FastKernelPicker'
+23:39:41.533 [info] User belongs to experiment group 'NewRemoteUriStorage'
+23:39:41.533 [info] User belongs to experiment group 'PasswordManager'
+23:39:41.533 [info] User belongs to experiment group 'NewJupyterSession'
+23:39:42.011 [info] Start refreshing Kernel Picker (1692563982011)
+23:39:42.016 [info] Using Pylance
+23:39:42.062 [info] Start refreshing Interpreter Kernel Picker
+23:39:43.223 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0163ae9de86cdc0f9ab2396f62f1ebf76e18b8456837acca1cebd3b1abfed9552.~/Documents/CodingProjects/Regression/envs/python.~/Documents/CodingProjects/Regression/envs/python.-m#ipykernel_launcher  (Python Path: ~/Documents/CodingProjects/Regression/envs/bin/python, Conda, 3.11.4) for '~/Documents/CodingProjects/Regression/boston.ipynb' (disableUI=true)
+23:39:43.249 [warn] Failed to get activated env vars for /usr/bin/python3 in 726ms
+23:39:43.265 [info] Process Execution: /usr/bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+23:39:43.330 [info] Process Execution: /usr/bin/python3 -m pip list
+23:39:45.243 [info] Process Execution: ~/Documents/CodingProjects/Regression/envs/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+23:39:45.255 [info] Process Execution: ~/Documents/CodingProjects/Regression/envs/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"0e68eb7c-fa35-4158-8561-3eb3b96a47c3" --shell=9002 --transport="tcp" --iopub=9004 --f=~/.local/share/jupyter/runtime/kernel-v2-249412W5El3DCI6US.json
+    > cwd: ~/Documents/CodingProjects/Regression
+23:39:45.296 [info] Process Execution: ~/Documents/CodingProjects/Regression/envs/bin/python -m pip list
+23:39:45.355 [info] End refreshing Kernel Picker (1692563982011)
+23:39:45.523 [info] ipykernel version & path 6.25.0, ~/Documents/CodingProjects/Regression/envs/lib/python3.11/site-packages/ipykernel/__init__.py for ~/Documents/CodingProjects/Regression/envs/bin/python
+23:39:45.942 [warn] StdErr from Kernel Process 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+23:39:45.991 [warn] StdErr from Kernel Process ~/Documents/CodingProjects/Regression/envs/lib/python3.11/site-packages/traitlets/traitlets.py:2544: FutureWarning: Supporting extra quotes around strings is deprecated in traitlets 5.0. You can use 'hmac-sha256' instead of '"hmac-sha256"' if you require traitlets >=5.
+  warn(
+23:39:45.991 [warn] StdErr from Kernel Process ~/Documents/CodingProjects/Regression/envs/lib/python3.11/site-packages/traitlets/traitlets.py:2495: FutureWarning: Supporting extra quotes around Bytes is deprecated in traitlets 5.0. Use '0e68eb7c-fa35-4158-8561-3eb3b96a47c3' instead of 'b"0e68eb7c-fa35-4158-8561-3eb3b96a47c3"'.
+  warn(
+23:39:46.258 [info] Started Kernel envs (Python 3.11.4) (pid: 25174)
+23:39:46.258 [info] Started new session c205e643-0e54-4a4d-805d-cba59da6e16f
+23:39:46.309 [info] Process Execution: ~/Documents/CodingProjects/Regression/envs/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2023.7.1002162226-linux-x64/pythonFiles/printJupyterDataDir.py
+02:25:43.291 [info] Disposing HostJupyterExecution
+02:25:43.291 [info] Shutting down notebooks for bf9c4e83-a301-4937-ac0f-95e8a79cb894
+02:25:43.291 [info] Dispose Kernel '~/Documents/CodingProjects/Regression/boston.ipynb' associated with '~/Documents/CodingProjects/Regression/boston.ipynb'
+02:25:43.292 [info] Dispose Kernel process 25174.
+02:25:43.300 [info] Disposing HostJupyterExecution

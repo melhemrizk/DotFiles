@@ -1,0 +1,16 @@
+2023-08-22 21:15:17.215 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-08-22 21:15:17.215 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-08-22 21:15:17.215 [info] Test server listening.
+2023-08-22 21:15:17.215 [info] > C:\Users\melhem\Anaconda3\Scripts\conda.exe info --json
+2023-08-22 21:15:17.215 [info] > conda info --json
+2023-08-22 21:15:17.215 [info] Python interpreter path: /usr/bin/python3
+2023-08-22 21:15:17.340 [info] Found: /usr/bin/python3 --> /usr/bin/python3.6
+2023-08-22 21:15:17.347 [info] Found: /usr/bin/python3.6 --> /usr/bin/python3.6
+2023-08-22 21:15:19.353 [info] > conda run -p ./envs --no-capture-output python ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/printEnvVariables.py
+2023-08-22 21:15:19.354 [info] shell: bash
+2023-08-22 21:15:19.354 [info] > conda run -p ./envs --no-capture-output python ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/printEnvVariables.py
+2023-08-22 21:15:19.354 [info] shell: bash
+2023-08-22 21:15:19.387 [info] > ./envs/bin/python -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2023-08-22 21:15:19.411 [info] > /usr/bin/python3 -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2023-08-22 21:15:19.496 [info] > ~/anaconda3/bin/python -I ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/interpreterInfo.py
+2023-08-22 21:15:22.179 [info] Starting Pylance language server.

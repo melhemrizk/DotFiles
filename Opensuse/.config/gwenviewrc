@@ -1,0 +1,44 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
+
+[General]
+JPEGQuality=100
+LastUsedVersion=210800
+
+[ImageView]
+MouseWheelBehavior=MouseWheelBehavior::Browse
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=32
+
+[MainWindow]
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAO1AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1 Window-Maximized 1920x1080 eDP-1=true
+
+[Recent Files]
+File1[$e]=$HOME/Pictures/Wallpaper/wallpaperflare.com_wallpaper9.jpg
+File10[$e]=$HOME/.local/share/wallpapers/Starry Nebula 219.png
+File2[$e]=$HOME/Pictures/Wallpaper/wallpaperflare.com_wallpaper11.jpg
+File3[$e]=$HOME/.local/share/wallpapers/Aritim-Dark-Wallpaper-1920x1080.jpg
+File4[$e]=$HOME/.local/share/wallpapers/Aritim-Dark-Wallpaper-V2-3840x5376.jpg
+File5[$e]=$HOME/.local/share/wallpapers/KDE Plasma QATAR SKIES 02.png
+File6[$e]=$HOME/.local/share/wallpapers/Next Theme KDE Wallpaper Material Version.png
+File7[$e]=$HOME/.local/share/wallpapers/Aritim-Dark_V5-1920x1280.jpg
+File8[$e]=$HOME/.local/share/wallpapers/Desert Green-No Plasma Logo.jpg
+File9[$e]=$HOME/.local/share/wallpapers/KDE Plasma Scenery 76.png
+Name1[$e]=wallpaperflare.com_wallpaper9.jpg
+Name10[$e]=Starry Nebula 219.png
+Name2[$e]=wallpaperflare.com_wallpaper11.jpg
+Name3[$e]=Aritim-Dark-Wallpaper-1920x1080.jpg
+Name4[$e]=Aritim-Dark-Wallpaper-V2-3840x5376.jpg
+Name5[$e]=KDE Plasma QATAR SKIES 02.png
+Name6[$e]=Next Theme KDE Wallpaper Material Version.png
+Name7[$e]=Aritim-Dark_V5-1920x1280.jpg
+Name8[$e]=Desert Green-No Plasma Logo.jpg
+Name9[$e]=KDE Plasma Scenery 76.png
+
+[SideBar]
+InformationSplitterSizes=212,243

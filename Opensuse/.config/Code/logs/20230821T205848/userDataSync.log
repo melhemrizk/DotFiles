@@ -1,0 +1,72 @@
+2023-08-21 20:58:51.361 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2023-08-21 20:58:51.361 [info] Auto Sync is enabled.
+2023-08-21 20:58:51.361 [info] Auto Sync: Suspended until auth token is available.
+2023-08-21 20:58:52.227 [info] Deleting non existing profile from backup /home/blackbird/.config/Code/User/sync/extensions
+2023-08-21 20:58:52.628 [info] Deleting non existing profile from backup /home/blackbird/.config/Code/User/sync/globalState
+2023-08-21 20:58:52.701 [info] Deleting non existing profile from backup /home/blackbird/.config/Code/User/sync/keybindings
+2023-08-21 20:58:52.774 [info] Deleting non existing profile from backup /home/blackbird/.config/Code/User/sync/profiles
+2023-08-21 20:58:52.776 [info] Deleting non existing profile from backup /home/blackbird/.config/Code/User/sync/settings
+2023-08-21 20:58:52.783 [info] Deleting non existing profile from backup /home/blackbird/.config/Code/User/sync/snippets
+2023-08-21 20:58:52.784 [info] Deleting non existing profile from backup /home/blackbird/.config/Code/User/sync/tasks
+2023-08-21 20:58:52.837 [info] Auto Sync: Triggered by Interval
+2023-08-21 20:58:52.838 [info] Sync started.
+2023-08-21 20:58:53.740 [info] Settings: Last sync resource does not exist locally.
+2023-08-21 20:58:54.301 [info] Settings: No changes found during synchronizing settings.
+2023-08-21 20:58:54.305 [info] Keybindings: Last sync resource does not exist locally.
+2023-08-21 20:58:54.962 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-08-21 20:58:54.964 [info] Snippets: Last sync resource does not exist locally.
+2023-08-21 20:58:56.123 [info] Snippets: No changes found during synchronizing snippets.
+2023-08-21 20:58:56.125 [info] Tasks: Last sync resource does not exist locally.
+2023-08-21 20:58:56.921 [info] Tasks: No changes found during synchronizing tasks.
+2023-08-21 20:58:56.923 [info] GlobalState: Last sync resource does not exist locally.
+2023-08-21 20:58:57.674 [info] GlobalState: No changes found during synchronizing ui state.
+2023-08-21 20:58:57.675 [info] Extensions: Last sync resource does not exist locally.
+2023-08-21 20:58:58.336 [info] Extensions: No changes found during synchronizing extensions.
+2023-08-21 20:58:58.339 [info] Profiles: Last sync resource does not exist locally.
+2023-08-21 20:58:58.741 [info] Profiles: No changes found during synchronizing profiles.
+2023-08-21 20:58:58.745 [info] Sync done. Took 5907ms
+2023-08-21 20:59:25.132 [info] Auto Sync: Triggered by Activity
+2023-08-21 20:59:25.132 [info] Sync started.
+2023-08-21 20:59:25.298 [info] Settings: No changes found during synchronizing settings.
+2023-08-21 20:59:25.302 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-08-21 20:59:25.305 [info] Snippets: No changes found during synchronizing snippets.
+2023-08-21 20:59:25.309 [info] Tasks: No changes found during synchronizing tasks.
+2023-08-21 20:59:25.315 [info] GlobalState: No changes found during synchronizing ui state.
+2023-08-21 20:59:25.434 [info] Extensions: No changes found during synchronizing extensions.
+2023-08-21 20:59:25.435 [info] Profiles: No changes found during synchronizing profiles.
+2023-08-21 20:59:25.437 [info] Sync done. Took 306ms
+2023-08-21 21:04:25.443 [info] Auto Sync: Triggered by Interval
+2023-08-21 21:04:25.443 [info] Sync started.
+2023-08-21 21:04:26.173 [info] Settings: No changes found during synchronizing settings.
+2023-08-21 21:04:26.183 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-08-21 21:04:26.188 [info] Snippets: No changes found during synchronizing snippets.
+2023-08-21 21:04:26.193 [info] Tasks: No changes found during synchronizing tasks.
+2023-08-21 21:04:26.197 [info] GlobalState: No changes found during synchronizing ui state.
+2023-08-21 21:04:26.326 [info] Extensions: No changes found during synchronizing extensions.
+2023-08-21 21:04:26.327 [info] Profiles: No changes found during synchronizing profiles.
+2023-08-21 21:04:26.329 [info] Sync done. Took 886ms
+2023-08-21 21:09:26.335 [info] Auto Sync: Triggered by Interval
+2023-08-21 21:09:26.335 [info] Sync started.
+2023-08-21 21:09:27.601 [info] Settings: No changes found during synchronizing settings.
+2023-08-21 21:09:27.607 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-08-21 21:09:27.611 [info] Snippets: No changes found during synchronizing snippets.
+2023-08-21 21:09:27.616 [info] Tasks: No changes found during synchronizing tasks.
+2023-08-21 21:09:27.620 [info] GlobalState: No changes found during synchronizing ui state.
+2023-08-21 21:09:27.732 [info] Extensions: No changes found during synchronizing extensions.
+2023-08-21 21:09:27.734 [info] Profiles: No changes found during synchronizing profiles.
+2023-08-21 21:09:27.736 [info] Sync done. Took 1402ms
+2023-08-21 21:14:27.739 [info] Auto Sync: Triggered by Interval
+2023-08-21 21:14:27.740 [info] Sync started.
+2023-08-21 21:14:27.761 [info] Request failed https://vscode-sync.trafficmanager.net/v1/manifest
+2023-08-21 21:14:27.762 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at f.v (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:91:126167)
+    at async f.manifest (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:91:124343)
+    at async i.createSyncTask (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:91:99785)
+    at async o.C (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:91:90981)
+    at async o.z (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:91:90621)
+2023-08-21 21:14:27.762 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at f.v (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:91:126167)
+    at async f.manifest (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:91:124343)
+    at async i.createSyncTask (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:91:99785)
+    at async o.C (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:91:90981)
+    at async o.z (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:91:90621)

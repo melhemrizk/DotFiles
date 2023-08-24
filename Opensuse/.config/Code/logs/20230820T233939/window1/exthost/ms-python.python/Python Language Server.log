@@ -1,0 +1,14 @@
+2023-08-20 23:39:46.468 [info] [Info  - 11:39:46 PM] (25184) Pylance language server 2023.8.30 (pyright 634c8074) starting
+2023-08-20 23:39:46.468 [info] [Info  - 11:39:46 PM] (25184) Server root directory: /home/blackbird/.vscode/extensions/ms-python.vscode-pylance-2023.8.30/dist
+2023-08-20 23:39:46.469 [info] [Info  - 11:39:46 PM] (25184) Starting service instance "Regression"
+2023-08-20 23:39:46.533 [info] [Info  - 11:39:46 PM] (25184) Setting pythonPath for service "Regression": "/usr/bin/python3"
+2023-08-20 23:39:46.534 [info] [Warn  - 11:39:46 PM] (25184) stubPath /home/blackbird/Documents/CodingProjects/Regression/typings is not a valid directory.
+2023-08-20 23:39:46.564 [info] [Info  - 11:39:46 PM] (25184) Assuming Python version 3.6
+2023-08-20 23:39:48.911 [info] [Info  - 11:39:48 PM] (25184) Found 18268 source files
+2023-08-20 23:39:48.944 [info] [Info  - 11:39:48 PM] (25184) Starting service instance "Regression"
+2023-08-20 23:39:48.965 [info] [Info  - 11:39:48 PM] (25184) Setting pythonPath for service "Regression": "/home/blackbird/Documents/CodingProjects/Regression/envs/bin/python"
+2023-08-20 23:39:48.966 [info] [Warn  - 11:39:48 PM] (25184) stubPath /home/blackbird/Documents/CodingProjects/Regression/typings is not a valid directory.
+2023-08-20 23:39:49.003 [info] [Info  - 11:39:49 PM] (25184) Assuming Python version 3.11
+2023-08-20 23:39:52.807 [info] [Info  - 11:39:52 PM] (25184) Found 18268 source files
+2023-08-20 23:39:58.014 [info] [Info  - 11:39:58 PM] (25184) [IDX(3)] Long operation: index execution environment /home/blackbird/Documents/CodingProjects/Regression (2403ms)
+2023-08-20 23:39:58.015 [info] [Info  - 11:39:58 PM] (25184) [IDX(3)] Long operation: index packages /home/blackbird/Documents/CodingProjects/Regression (2444ms)

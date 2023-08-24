@@ -1,0 +1,2 @@
+2023-08-23 19:04:13.657 [error] electron #293: https://vscode-sync.trafficmanager.net/v1/manifest - error GET net::ERR_INTERNET_DISCONNECTED
+2023-08-23 19:04:19.359 [error] electron #294: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NETWORK_CHANGED

@@ -1,0 +1,14 @@
+2023-08-20 23:39:39.612 [info] update#setState idle
+2023-08-20 23:40:09.614 [info] update#setState checking for updates
+2023-08-20 23:40:09.725 [info] update#setState idle
+2023-08-21 00:40:09.617 [info] update#setState checking for updates
+2023-08-21 00:40:21.135 [error] Error: net::ERR_SOCKET_NOT_CONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:49312)
+    at SimpleURLLoaderWrapper.emit (node:events:513:28)
+2023-08-21 00:40:21.136 [info] update#setState idle
+2023-08-21 01:40:09.621 [info] update#setState checking for updates
+2023-08-21 01:40:11.352 [info] update#setState idle
+2023-08-21 02:25:43.338 [info] Extension host with pid 24941 exited with code: 0, signal: unknown.
+2023-08-21 02:25:43.396 [error] Blocked vscode-file request vscode-file://vscode-app/usr/share/code/resources/app/out/vs/base/worker/workerMain.js#editorWorkerService
+2023-08-21 02:25:43.406 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2023-08-21 02:25:43.406 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 25000]: crashed with code 15 and reason 'killed'

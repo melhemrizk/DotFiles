@@ -1,0 +1,14 @@
+[General Options]
+RestorePositionForNextInstance=false
+
+[IdentityManager]
+DefaultIdentity=QooEDRBo0M
+
+[Identity_QooEDRBo0M]
+Id=QooEDRBo0M
+Label=Default Identity
+
+[Status Manager]
+GlobalStatusCategory=1
+GlobalStatusMessage=
+GlobalStatusTitle=Offline

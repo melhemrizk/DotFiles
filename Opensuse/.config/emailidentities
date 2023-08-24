@@ -1,0 +1,30 @@
+[General]
+Default Identity=1806119164
+
+[Identity #0]
+Default Domain=rivendell
+Disable Fcc=false
+Email Address=melhem@melhemrizk.com
+Identity=Melhem
+Image Location=
+Inline Signature=
+Name=Melhem Rizk
+Override Encryption Defaults=false
+PGP Encryption Key=442A1D9BC7BD32359642E7E757D26314742EBB60
+PGP Signing Key=442A1D9BC7BD32359642E7E757D26314742EBB60
+Pgp Auto Encrypt=true
+Pgp Auto Sign=true
+Signature Enabled=false
+Transport=-1
+uoid=1806119164
+
+[Identity #1]
+Default Domain=rivendell
+Disable Fcc=false
+Identity=Melhem Rizk
+Image Location=
+Inline Signature=
+Name=Melhem Rizk
+Override Encryption Defaults=false
+Signature Enabled=false
+uoid=266467191

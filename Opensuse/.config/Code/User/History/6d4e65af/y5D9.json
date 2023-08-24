@@ -1,0 +1,54 @@
+{
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.cursorBlinking": "smooth",
+    "editor.fontSize": 16,
+    "editor.fontFamily": "Source code Pro",
+    "debug.console.fontFamily": "Source Code Pro",
+    "workbench.colorTheme": "Monokai",
+    "workbench.preferredLightColorTheme": "Monokai",
+    "workbench.settings.editor": "ui",
+    "workbench.settings.openDefaultSettings": true,
+    
+    "files.autoSave": "afterDelay",
+    "sync.autoUpload": true,
+    "[python]": {
+    
+    
+    },
+    "python.condaPath": "C:\\Users\\melhem\\Anaconda3\\Scripts\\conda.exe",
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "remote.SSH.showLoginTerminal": true,
+    "remote.SSH.useLocalServer": false,
+    "remote.SSH.remotePlatform": {
+
+    "rivendell": "linux"
+    
+    },
+    "python.autoComplete.addBrackets": true,
+    "workbench.startupEditor": "newUntitledFile",
+    "python.terminal.activateEnvironment": true,
+    "timeline.pageSize": 0,
+    "files.associations": {
+    
+    },
+    "launch": {
+    
+    },
+    "explorer.confirmDelete": false,
+    "workbench.editor.enablePreview": true,
+    "workbench.colorCustomizations": {
+    
+    },
+    "notebook.kernelProviderAssociations": [
+    
+    ],
+    "python.analysis.completeFunctionParens": true,
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "terminal.integrated.fontFamily": "Source Code Pro",
+    "redhat.telemetry.enabled": false,
+    "terminal.integrated.inheritEnv": false,
+    "terminal.integrated.defaultProfile.linux": "bash",
+    "terminal.integrated.env.linux": {
+        
+    },
+}

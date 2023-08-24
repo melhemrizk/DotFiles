@@ -1,0 +1,13 @@
+[ExtractDialog]
+DirHistory[$e]=$HOME/Downloads/fonts/SymbolsNerdOnly/
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Downloads/fonts/SymbolsNerdOnly,file:$HOME/Downloads/fonts/SymbolsNerdOnly
+Recent URLs[$e]=file:$HOME/Downloads/fonts/SymbolsNerdOnly/
+iconViewIconSize=64
+
+[MainWindow]
+State=AAAA/wAAAAD9AAAAAAAAA7YAAAIqAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+splitterSizes=633,316

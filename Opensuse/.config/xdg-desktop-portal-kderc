@@ -1,0 +1,8 @@
+[FileDialogSize]
+eDP-1 Height 1920x1080 eDP-1=600
+eDP-1 Width 1920x1080 eDP-1=980
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Downloads/Opensuse/code-1.81.1-1691620770.el7.x86_64.rpm,file:$HOME/Downloads/fonts/NerdFontsSymbolsOnly.zip,file:$HOME/Downloads/starship.toml,file:$HOME/Pictures/Wallpaper/pexels-rahul-695644.jpg,file:$HOME/Pictures/Wallpaper/pexels-mason-cook-2091399.jpg,file:$HOME/Pictures/Wallpaper/pexels-prateek-katyal-2740844.jpg,file:$HOME/Pictures/Wallpaper/pexels-prateek-katyal-2740839.jpg,file:$HOME/Pictures/Wallpaper/pexels-sebastiaan-stam-1690082.jpg,file:$HOME/Pictures/Wallpaper/pexels-magda-ehlers-1339370.jpg,file:$HOME/Pictures/Wallpaper/pexels-hristo-fidanov-1252890.jpg,file:$HOME/Pictures/Wallpaper/pexels-magda-ehlers-13181188.jpg,file:$HOME/Pictures/Wallpaper/pexels-miodrag-kitanović-4286939.jpg,file:$HOME/Documents/CodingProjects/Regression/Boston.csv,file:$HOME/Pictures/Wallpaper/wallpaperflare.com_wallpaper11.jpg,file:$HOME/Pictures/Wallpaper/multi-colored-psychedelic-background.jpg,file:$HOME/Pictures/Wallpaper/vivid-blurred-colorful-wallpaper-background.jpg
+Recent URLs[$e]=file:$HOME/,file:$HOME/Downloads/fonts/,file:$HOME/.config/,file:$HOME/Pictures/Wallpaper/,file:$HOME/Pictures/,file:$HOME/Downloads/Themes/,file:$HOME/Downloads/Linux Distros/,file:$HOME/Documents/CodingProjects/Regression/,file:$HOME/Downloads/Opensuse/,file:$HOME/Downloads/
+iconViewIconSize=64
