@@ -1,0 +1,33 @@
+Visual Studio Code (1.81.1, undefined, desktop)
+Jupyter Extension Version: 2023.7.1002162226.
+Python Extension Version: 2023.14.0.
+Platform: linux (x64).
+Workspace folder ~/Documents/CodingProjects/Regression, Home = /home/blackbird
+19:33:42.246 [info] User belongs to experiment group 'FastKernelPicker'
+19:33:42.247 [info] User belongs to experiment group 'NewRemoteUriStorage'
+19:33:42.247 [info] User belongs to experiment group 'PasswordManager'
+19:33:42.247 [info] User belongs to experiment group 'NewJupyterSession'
+19:33:42.911 [info] Start refreshing Kernel Picker (1692981222910)
+19:33:42.920 [info] Using Pylance
+19:33:48.278 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0163ae9de86cdc0f9ab2396f62f1ebf76e18b8456837acca1cebd3b1abfed9552.~/Documents/CodingProjects/Regression/envs/python.~/Documents/CodingProjects/Regression/envs/python.-m#ipykernel_launcher  (Python Path: ~/Documents/CodingProjects/Regression/envs/bin/python, Conda, 3.11.4) for '~/Documents/CodingProjects/Regression/boston.ipynb' (disableUI=true)
+19:33:48.288 [info] End refreshing Kernel Picker (1692981222910)
+19:33:48.343 [warn] Failed to get activated env vars for /usr/bin/python3 in 5025ms
+19:33:48.356 [info] Process Execution: /usr/bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+19:33:48.401 [info] Process Execution: /usr/bin/python3 -m pip list
+19:34:13.317 [info] Process Execution: ~/Documents/CodingProjects/Regression/envs/bin/python -m pip list
+19:34:13.326 [info] Process Execution: ~/Documents/CodingProjects/Regression/envs/bin/python -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+19:34:13.332 [info] Process Execution: ~/Documents/CodingProjects/Regression/envs/bin/python -m ipykernel_launcher --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"2d57809d-4975-4f1c-8431-7dff50287a3c" --shell=9002 --transport="tcp" --iopub=9004 --f=~/.local/share/jupyter/runtime/kernel-v2-3837Q50cTPU9VRR7.json
+    > cwd: ~/Documents/CodingProjects/Regression
+19:34:28.329 [info] ipykernel version & path 6.25.0, ~/Documents/CodingProjects/Regression/envs/lib/python3.11/site-packages/ipykernel/__init__.py for ~/Documents/CodingProjects/Regression/envs/bin/python
+19:34:40.407 [warn] StdErr from Kernel Process 0.03s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+19:34:41.936 [info] Started Kernel envs (Python 3.11.4) (pid: 4259)
+19:34:41.936 [info] Started new session 771d2517-6a94-4113-837d-30472f312c25
+19:34:41.982 [info] Process Execution: ~/Documents/CodingProjects/Regression/envs/bin/python ~/.vscode/extensions/ms-toolsai.jupyter-2023.7.1002162226-linux-x64/pythonFiles/printJupyterDataDir.py
+21:14:34.347 [info] Disposing HostJupyterExecution
+21:14:34.347 [info] Shutting down notebooks for 61da6f95-897c-4178-a688-aa0da63968f6
+21:14:34.347 [info] Dispose Kernel '~/Documents/CodingProjects/Regression/boston.ipynb' associated with '~/Documents/CodingProjects/Regression/boston.ipynb'
+21:14:34.348 [info] Dispose Kernel process 4259.
+21:14:34.356 [info] Disposing HostJupyterExecution

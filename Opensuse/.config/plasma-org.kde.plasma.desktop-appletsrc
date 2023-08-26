@@ -172,7 +172,7 @@ immutability=1
 plugin=org.kde.plasma.notifications
 
 [Containments][8][Applets][16][Configuration]
-PreloadWeight=80
+PreloadWeight=85
 
 [Containments][8][Applets][17]
 immutability=1
@@ -205,7 +205,7 @@ immutability=1
 plugin=org.kde.plasma.bluetooth
 
 [Containments][8][Applets][24][Configuration]
-PreloadWeight=84
+PreloadWeight=89
 
 [Containments][8][Applets][26]
 immutability=1
@@ -240,4 +240,4 @@ shownItems=KMail
 
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=desktop:/trash.desktop,0,1d433bf1-3fca-4461-907e-da19ab92a875,desktop:/Home.desktop,0,1d433bf1-3fca-4461-907e-da19ab92a875
+screenMapping=desktop:/Home.desktop,0,1d433bf1-3fca-4461-907e-da19ab92a875,desktop:/trash.desktop,0,1d433bf1-3fca-4461-907e-da19ab92a875

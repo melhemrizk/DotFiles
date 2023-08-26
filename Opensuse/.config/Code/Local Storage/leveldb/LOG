@@ -1,3 +1,3 @@
-2023/08/24-18:41:22.353 3023 Reusing MANIFEST /home/blackbird/.config/Code/Local Storage/leveldb/MANIFEST-000001
-2023/08/24-18:41:22.354 3023 Recovering log #3
-2023/08/24-18:41:22.354 3023 Reusing old log /home/blackbird/.config/Code/Local Storage/leveldb/000003.log 
+2023/08/25-19:33:32.395 e38 Reusing MANIFEST /home/blackbird/.config/Code/Local Storage/leveldb/MANIFEST-000001
+2023/08/25-19:33:32.396 e38 Recovering log #3
+2023/08/25-19:33:32.396 e38 Reusing old log /home/blackbird/.config/Code/Local Storage/leveldb/000003.log 

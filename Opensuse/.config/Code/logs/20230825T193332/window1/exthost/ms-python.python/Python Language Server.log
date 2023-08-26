@@ -1,0 +1,32 @@
+2023-08-25 19:33:49.926 [info] [Info  - 7:33:49 PM] (4109) Pylance language server 2023.8.40 (pyright 03f79a81) starting
+2023-08-25 19:33:49.927 [info] [Info  - 7:33:49 PM] (4109) Server root directory: /home/blackbird/.vscode/extensions/ms-python.vscode-pylance-2023.8.40/dist
+2023-08-25 19:33:49.927 [info] [Info  - 7:33:49 PM] (4109) Starting service instance "Regression"
+2023-08-25 19:33:49.986 [info] [Info  - 7:33:49 PM] (4109) Setting pythonPath for service "Regression": "/usr/bin/python3"
+2023-08-25 19:33:50.313 [info] [Warn  - 7:33:50 PM] (4109) stubPath /home/blackbird/Documents/CodingProjects/Regression/typings is not a valid directory.
+2023-08-25 19:33:50.368 [info] [Info  - 7:33:50 PM] (4109) Assuming Python version 3.6
+2023-08-25 19:34:01.094 [info] [Info  - 7:34:01 PM] (4109) Found 21130 source files
+2023-08-25 19:34:01.330 [info] [Info  - 7:34:01 PM] (4109) Starting service instance "Regression"
+2023-08-25 19:34:01.360 [info] [Info  - 7:34:01 PM] (4109) Setting pythonPath for service "Regression": "/home/blackbird/Documents/CodingProjects/Regression/envs/bin/python"
+2023-08-25 19:34:01.360 [info] [Warn  - 7:34:01 PM] (4109) stubPath /home/blackbird/Documents/CodingProjects/Regression/typings is not a valid directory.
+2023-08-25 19:34:03.275 [info] [Info  - 7:34:03 PM] (4109) Assuming Python version 3.11
+2023-08-25 19:34:07.500 [info] [Info  - 7:34:07 PM] (4109) Found 21218 source files
+2023-08-25 19:34:11.950 [info] [Info  - 7:34:11 PM] (4109) [FG] Long operation: parsing: /home/blackbird/Documents/CodingProjects/Regression/envs/lib/python3.11/site-packages/IPython/lib/display.py (3344ms)
+2023-08-25 19:34:11.960 [info] [Info  - 7:34:11 PM] (4109) [FG] Long operation: binding: /home/blackbird/Documents/CodingProjects/Regression/envs/lib/python3.11/site-packages/IPython/display.py (3412ms)
+2023-08-25 19:34:12.064 [info] [Info  - 7:34:12 PM] (4109) [BG(2)] Long operation: parsing: /home/blackbird/Documents/CodingProjects/Regression/envs/lib/python3.11/site-packages/IPython/lib/display.py (3335ms)
+2023-08-25 19:34:12.064 [info] [Info  - 7:34:12 PM] (4109) [BG(2)] Long operation: binding: /home/blackbird/Documents/CodingProjects/Regression/envs/lib/python3.11/site-packages/IPython/display.py (3401ms)
+2023-08-25 19:34:13.138 [info] [Info  - 7:34:13 PM] (4109) [IDX(3)] Long operation: scan packages /home/blackbird/Documents/CodingProjects/Regression (5029ms)
+2023-08-25 19:34:16.570 [info] [Info  - 7:34:16 PM] (4109) [BG(2)] Long operation: getSemanticTokens full at /home/blackbird/Documents/CodingProjects/Regression/boston.ipynb:pylance-notebook-cell:W0sZmlsZQ==.py (8895ms)
+2023-08-25 19:34:19.815 [info] [Info  - 7:34:19 PM] (4109) [IDX(3)] Long operation: indexing: /home/blackbird/Documents/CodingProjects/Regression/envs/lib/python3.11/site-packages/jupyterlab_server/__init__.py (2857ms)
+2023-08-25 19:34:21.593 [info] [Info  - 7:34:21 PM] (4109) [BG(2)] Long operation: getSemanticTokens full at /home/blackbird/Documents/CodingProjects/Regression/boston.ipynb:pylance-notebook-cell:W2sZmlsZQ==.py (5020ms)
+2023-08-25 19:34:22.281 [info] [Info  - 7:34:22 PM] (4109) [BG(1)] Long operation: parsing: /home/blackbird/Documents/CodingProjects/Regression/envs/lib/python3.1/os.py (5194ms)
+2023-08-25 19:34:22.837 [info] [Info  - 7:34:22 PM] (4109) [BG(1)] Long operation: indexing: /home/blackbird/Documents/CodingProjects/Regression/envs/lib/python3.1/os.py (5749ms)
+2023-08-25 19:34:25.470 [info] [Info  - 7:34:25 PM] (4109) [IDX(3)] Long operation: indexing: /home/blackbird/Documents/CodingProjects/Regression/envs/lib/python3.11/site-packages/numpy/__init__.pyi (2773ms)
+2023-08-25 19:34:31.409 [info] [Info  - 7:34:31 PM] (4109) [IDX(3)] Long operation: index execution environment /home/blackbird/Documents/CodingProjects/Regression (17795ms)
+2023-08-25 19:34:31.410 [info] [Info  - 7:34:31 PM] (4109) [IDX(3)] Long operation: index packages /home/blackbird/Documents/CodingProjects/Regression (18097ms)
+2023-08-25 19:34:31.676 [info] [Info  - 7:34:31 PM] (4109) [BG(2)] Long operation: parsing: /home/blackbird/Documents/CodingProjects/Regression/envs/lib/python3.1/pdb.py (7653ms)
+2023-08-25 19:34:31.676 [info] [Info  - 7:34:31 PM] (4109) [BG(1)] Long operation: parsing: /home/blackbird/Documents/CodingProjects/Regression/envs/lib/python3.1/pdb.py (7851ms)
+2023-08-25 19:34:31.692 [info] [Info  - 7:34:31 PM] (4109) [BG(1)] Long operation: indexing: /home/blackbird/Documents/CodingProjects/Regression/envs/lib/python3.1/pdb.py (7867ms)
+2023-08-25 19:34:31.699 [info] [Info  - 7:34:31 PM] (4109) [BG(2)] Long operation: indexing: /home/blackbird/Documents/CodingProjects/Regression/envs/lib/python3.1/pdb.py (7675ms)
+2023-08-25 19:34:56.479 [info] [Info  - 7:34:56 PM] (4109) [BG(1)] Long operation: parsing: /home/blackbird/Documents/CodingProjects/Regression/envs/lib/python3.1/importlib/abc.py (2007ms)
+2023-08-25 19:34:56.484 [info] [Info  - 7:34:56 PM] (4109) [BG(2)] Long operation: indexing: /home/blackbird/Documents/CodingProjects/Regression/envs/lib/python3.1/importlib/abc.py (2003ms)
+2023-08-25 19:34:56.485 [info] [Info  - 7:34:56 PM] (4109) [BG(1)] Long operation: indexing: /home/blackbird/Documents/CodingProjects/Regression/envs/lib/python3.1/importlib/abc.py (2013ms)

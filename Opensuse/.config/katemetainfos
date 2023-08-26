@@ -1,14 +1,74 @@
 [file:///home/blackbird/.bashrc]
 Bookmarks=
-Checksum=c9ab16ec3250b2ebb13cfc54f8db97fa6182421a
+Checksum=1b41fa5342db9442294ea31749f21c22ea880591
 Encoding=UTF-8
 Highlighting=Bash
 Highlighting Set By User=false
 Indentation Mode=normal
 Mode=Bash
 Mode Set By User=false
-Time=2023,8,24,14,10,38.146
+Time=2023,8,25,22,8,28.5
 URL=file:///home/blackbird/.bashrc
+
+[file:///home/blackbird/.condarc]
+Bookmarks=
+Checksum=ade0e5a3cf26a853796845fddea8c3e6517c821b
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,8,25,21,56,8.874
+URL=file:///home/blackbird/.condarc
+
+[file:///home/blackbird/.config/KDE/Sonnet.conf]
+Bookmarks=
+Checksum=c292bf0d74f73c6750918faf079c0699fd13fae8
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,8,25,22,1,30.213
+URL=file:///home/blackbird/.config/KDE/Sonnet.conf
+
+[file:///home/blackbird/.config/KDE/UserFeedback.conf]
+Bookmarks=
+Checksum=e189b0b7f68406810c2b0300fa6fb8589b783dcf
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,8,25,22,1,39.213
+URL=file:///home/blackbird/.config/KDE/UserFeedback.conf
+
+[file:///home/blackbird/.config/Kvantum/Layan/Layan.kvconfig]
+Bookmarks=
+Checksum=05e2f1495fa2e4e9b83788ecf03188edf15e188c
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,8,25,22,4,15.273
+URL=file:///home/blackbird/.config/Kvantum/Layan/Layan.kvconfig
+
+[file:///home/blackbird/.config/Kvantum/Layan/Layan.svg]
+Bookmarks=
+Checksum=0fe87248e213eb7deab89dd4a55cc6d8d51d004b
+Encoding=UTF-8
+Highlighting=XML
+Highlighting Set By User=false
+Indentation Mode=xml
+Mode=XML
+Mode Set By User=false
+Time=2023,8,25,22,4,0.822
+URL=file:///home/blackbird/.config/Kvantum/Layan/Layan.svg
 
 [file:///home/blackbird/.config/gtk-3.0/colors.css]
 Bookmarks=
@@ -46,16 +106,136 @@ Mode Set By User=false
 Time=2023,8,20,11,38,26.281
 URL=file:///home/blackbird/.config/gtk-4.0/settings.ini
 
+[file:///home/blackbird/.config/kde.org/UserFeedback.org.kde.discover.conf]
+Bookmarks=
+Checksum=7cb08e0788b8845a2c543f81bb8890cf8744c947
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,8,25,22,2,10.84
+URL=file:///home/blackbird/.config/kde.org/UserFeedback.org.kde.discover.conf
+
+[file:///home/blackbird/.config/kde.org/UserFeedback.org.kde.kate.conf]
+Bookmarks=
+Checksum=0d2d08ed267d420bb144232a55f04867c13abd4b
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,8,25,22,2,16.607
+URL=file:///home/blackbird/.config/kde.org/UserFeedback.org.kde.kate.conf
+
+[file:///home/blackbird/.config/kde.org/systemsettings.conf]
+Bookmarks=
+Checksum=11c7450796f20ce8ab30c3e8b415edebbae57dc5
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,8,25,22,2,0.941
+URL=file:///home/blackbird/.config/kde.org/systemsettings.conf
+
+[file:///home/blackbird/.config/kdedefaults/kcminputrc]
+Bookmarks=
+Checksum=4ef62b49e426612136acbf35ac80aaf7c6d6904f
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,8,25,22,2,46.584
+URL=file:///home/blackbird/.config/kdedefaults/kcminputrc
+
+[file:///home/blackbird/.config/kdedefaults/kdeglobals]
+Bookmarks=
+Checksum=fb9a2c3fb13012ad16c594ae78aa1f6d65a43bb5
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,8,25,22,2,33.733
+URL=file:///home/blackbird/.config/kdedefaults/kdeglobals
+
+[file:///home/blackbird/.config/kdedefaults/kscreenlockerrc]
+Bookmarks=
+Checksum=b6fd2e1d1f8f034909f9afe80d6f391ce781cf46
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,8,25,22,2,57.718
+URL=file:///home/blackbird/.config/kdedefaults/kscreenlockerrc
+
+[file:///home/blackbird/.config/kdedefaults/ksplashrc]
+Bookmarks=
+Checksum=aebb7f2826fe0034c253117831f0712667b50b1f
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,8,25,22,3,5.36
+URL=file:///home/blackbird/.config/kdedefaults/ksplashrc
+
+[file:///home/blackbird/.config/kdedefaults/kwinrc]
+Bookmarks=
+Checksum=077d4a8adaa074e0e8a8a319baec702f3eeb872b
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,8,25,22,3,23.636
+URL=file:///home/blackbird/.config/kdedefaults/kwinrc
+
+[file:///home/blackbird/.config/kdedefaults/package]
+Bookmarks=
+Checksum=53096fab9951638e0c01770df9e16b00796c5d21
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,8,25,22,3,29.662
+URL=file:///home/blackbird/.config/kdedefaults/package
+
+[file:///home/blackbird/.config/kdedefaults/plasmarc]
+Bookmarks=
+Checksum=de774f60cd54f6af471c0cd79889343ec28317b7
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,8,25,22,3,34.662
+URL=file:///home/blackbird/.config/kdedefaults/plasmarc
+
 [file:///home/blackbird/.config/starship.toml]
 Bookmarks=
-Checksum=9c40ab685fe0b34cc33c00ef91c422be6f0d6e2f
+Checksum=5b1046dbbf78e3df25214fd113edb9b0db3d9bc7
 Encoding=UTF-8
 Highlighting=TOML
 Highlighting Set By User=false
 Indentation Mode=normal
 Mode=TOML
 Mode Set By User=false
-Time=2023,8,24,19,5,7.853
+Time=2023,8,25,22,10,0.099
 URL=file:///home/blackbird/.config/starship.toml
 
 [file:///home/blackbird/.icons/Layan-border-cursors/index.theme]
@@ -103,7 +283,7 @@ Highlighting Set By User=false
 Indentation Mode=normal
 Mode=Bash
 Mode Set By User=false
-Time=2023,8,17,20,22,17.477
+Time=2023,8,25,21,57,12.075
 URL=file:///home/blackbird/.profile
 
 [file:///home/blackbird/.viminfo]
@@ -127,7 +307,7 @@ Highlighting Set By User=false
 Indentation Mode=normal
 Mode=Bash
 Mode Set By User=false
-Time=2023,8,15,21,0,59.933
+Time=2023,8,24,19,21,58.853
 URL=file:///home/blackbird/Documents/DotFiles/.bashrc
 
 [file:///home/blackbird/Documents/DotFiles/.profile]
@@ -139,8 +319,32 @@ Highlighting Set By User=false
 Indentation Mode=normal
 Mode=Bash
 Mode Set By User=false
-Time=2023,8,15,21,1,31.152
+Time=2023,8,24,19,22,12.345
 URL=file:///home/blackbird/Documents/DotFiles/.profile
+
+[file:///home/blackbird/Documents/DotFiles/06_local_colors]
+Bookmarks=
+Checksum=bc03c7e569eff863c4c118bf8dde99dd655e60de
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2023,8,24,19,22,25.355
+URL=file:///home/blackbird/Documents/DotFiles/06_local_colors
+
+[file:///home/blackbird/Documents/DotFiles/grub-colors.txt]
+Bookmarks=
+Checksum=36cdc60a6d75b0da6d569bdc01e61d775b83491f
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,8,24,19,22,30.788
+URL=file:///home/blackbird/Documents/DotFiles/grub-colors.txt
 
 [file:///home/blackbird/Documents/GitHub/Dotfiles/.bash_aliases]
 Bookmarks=
@@ -178,6 +382,18 @@ Mode Set By User=false
 Time=2023,8,24,19,12,13.331
 URL=file:///home/blackbird/Documents/GitHub/Dotfiles/.bashrc
 
+[file:///home/blackbird/Documents/GitHub/Dotfiles/Opensuse/.bashrc]
+Bookmarks=
+Checksum=c9ab16ec3250b2ebb13cfc54f8db97fa6182421a
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2023,8,25,21,55,47.997
+URL=file:///home/blackbird/Documents/GitHub/Dotfiles/Opensuse/.bashrc
+
 [file:///home/blackbird/Documents/GitHub/Dotfiles/grub-colors.txt]
 Bookmarks=
 Checksum=36cdc60a6d75b0da6d569bdc01e61d775b83491f
@@ -213,6 +429,18 @@ Mode=Bash
 Mode Set By User=false
 Time=2023,8,17,18,29,26.915
 URL=file:///home/blackbird/Downloads/bashrc
+
+[file:///home/blackbird/Downloads/fonts/NotoEmoji/README.txt]
+Bookmarks=
+Checksum=0190d84873d88b79924de54504fbe960c91966ea
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,8,25,18,13,13.451
+URL=file:///home/blackbird/Downloads/fonts/NotoEmoji/README.txt
 
 [file:///home/blackbird/Downloads/starship.toml]
 Bookmarks=

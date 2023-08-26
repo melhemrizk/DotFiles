@@ -136,8 +136,8 @@ ForegroundPositive=0,110,40
 ForegroundVisited=224,64,251
 
 [DirSelect Dialog]
-DirSelectDialog Size=980,600
-History Items[$e]=file:$HOME/Documents/GitHub/Dotfiles,file:$HOME/Downloads/Themes/Layan
+DirSelectDialog Size=844,598
+History Items[$e]=file:$HOME/Downloads/Linux Distros,file:$HOME/Documents/GitHub/Dotfiles,file:$HOME/Downloads/Themes/Layan
 
 [General]
 AccentColor=146,110,228

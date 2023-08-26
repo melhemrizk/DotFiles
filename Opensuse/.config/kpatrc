@@ -13,10 +13,10 @@ eDP-1 Window-Maximized 1920x1080 eDP-1=true
 careaboutstats=false
 
 [Scores]
-loosestreak8=2
+loosestreak8=1
 maxloosestreak8=5
 maxwinstreak8=8
 minmoves8=250
-total8=161
+total8=177
 winstreak8=0
-won8=102
+won8=113
