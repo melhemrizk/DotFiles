@@ -1,8 +1,0 @@
-2023-08-22 21:14:55.352 [info] Experiment 'pythonPromptNewFormatterExt' is active
-2023-08-22 21:14:55.352 [info] Experiment 'pythonPromptNewToolsExt' is active
-2023-08-22 21:14:55.352 [info] > C:\Users\melhem\Anaconda3\Scripts\conda.exe info --json
-2023-08-22 21:14:55.352 [info] > conda info --json
-2023-08-22 21:14:55.352 [info] Python interpreter path: /usr/bin/python3
-2023-08-22 21:14:55.361 [info] Test server listening.
-2023-08-22 21:14:55.535 [info] Found: /usr/bin/python3 --> /usr/bin/python3.6
-2023-08-22 21:14:55.543 [info] Found: /usr/bin/python3.6 --> /usr/bin/python3.6

@@ -1,9 +1,0 @@
-2023-08-24 17:37:06.819 [info] Getting Manifest... ms-python.vscode-pylance
-2023-08-24 17:37:07.335 [info] Installing extension: ms-python.vscode-pylance
-2023-08-24 17:37:08.735 [info] Getting Manifest... ms-python.python
-2023-08-24 17:39:17.021 [info] Extension signature is verified: ms-python.vscode-pylance
-2023-08-24 17:39:21.469 [info] Extracted extension to file:///home/blackbird/.vscode/extensions/ms-python.vscode-pylance-2023.8.40: ms-python.vscode-pylance
-2023-08-24 17:39:21.517 [info] Renamed to /home/blackbird/.vscode/extensions/ms-python.vscode-pylance-2023.8.40
-2023-08-24 17:39:21.533 [info] Extracting extension completed. ms-python.vscode-pylance
-2023-08-24 17:39:21.606 [info] Extension installed successfully: ms-python.vscode-pylance
-2023-08-24 17:39:21.622 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.8.30
