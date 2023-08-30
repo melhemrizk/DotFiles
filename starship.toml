@@ -35,10 +35,10 @@ add_newline = true
 show_always = true
 style_user = "bg:#ff5500 fg:#ffffff"
 style_root = "bg:#ff0000 fg:#ffffff"
-format = '[$user ]($style bold)'
+format = '[$user]($style bold)'
 disabled = false
 
-# Displays a symbol of the operating system. Choose which symbol to display in the [os.symbols] module
+# Displays a symbol of your operating system. Choose which symbol to display in the [os.symbols] module
 [os]
 style = "bg:#ff5500 fg:#145a32"
 format = '[$symbol]($style bold)'
@@ -59,7 +59,7 @@ disabled = false
 read_only = '🔒'
 style = "bg:#9b59b6 fg:#ffffff"
 read_only_style = "bg:#9b59b6 fg:#ff0000"
-format = "[ $path ]($style bold italic)[$read_only]($read_only_style)"
+format = "[$path]($style bold italic)[$read_only]($read_only_style)"
 truncation_length = 3
 truncation_symbol = "…/"
 
@@ -84,7 +84,7 @@ style = "fg:#de3163 bold italic"
 # format = 'via [${symbol}python (${version} )(\($virtualenv\) )]($style bold)'
 # style = "fg:#ffffff"
 # pyenv_prefix = "venv "
-# python_binary = ["./venv/bin/python", "python", "python3"]
+# python_binary = ["./venv/bin/python", "python", "python3", "python2"]
 # detect_extensions = ["py"]
 # version_format = "v${raw}"
 
@@ -110,10 +110,10 @@ style = "bg:#7d3c98"
 format = '[$symbol ($version)]($style)'
 
 
-# [nodejs]
-# symbol = ""
-# style = "bg:#7d3c98"
-# format = '[ $symbol ($version) ]($style)'
+[nodejs]
+symbol = ""
+style = "bg:#7d3c98"
+format = '[$symbol ($version)]($style)'
 
 # Displays the time in 24hr format
 [time]

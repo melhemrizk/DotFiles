@@ -28,7 +28,7 @@ add_newline = true
 show_always = true
 style_user = "fg:#ff5500"
 style_root = "fg:#ff0000"
-format = '[$user ]($style bold)'
+format = '[$user]($style bold)'
 disabled = false
 
 # Displays a symbol of the operating system. Choose which symbol to to display in the [os.symbols] module
@@ -53,7 +53,7 @@ disabled = false
 read_only = '🔒'
 style = "fg:#9b59b6"
 read_only_style = "fg:#ff0000"
-format = " in [ $path ]($style bold italic)[$read_only]($read_only_style)"
+format = " in [$path]($style bold italic)[$read_only]($read_only_style)"
 truncation_length = 3
 truncation_symbol = "…/"
 
