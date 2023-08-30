@@ -1,0 +1,120 @@
+#     # ######
+##   ## #     #
+# # # # #     #
+#  #  # ######
+#     # #   #
+#     # #    #
+#     # #     # Melhem Rizk
+
+format = """
+$username\
+$os\
+$hostname\
+$directory\
+$git_branch\
+$git_status\
+$python\
+$conda\
+$time\
+$cmd_duration
+➜ (fg:#ffffff)
+"""
+
+# Enable the blank line at the start of the prompt
+add_newline = true
+
+# Displays the user name
+[username]
+show_always = true
+style_user = "fg:#ff5500"
+style_root = "fg:#ff0000"
+format = '[$user ]($style bold)'
+disabled = false
+
+# Displays a symbol of the operating system. Choose which symbol to to display in the [os.symbols] module
+module
+[os]
+style = "fg:#145a32"
+format = ' using [$symbol]($style bold)'
+disabled = false # Disabled by default
+
+[os.symbols]
+openSUSE = "🦎"
+
+# Dispalys the hostname
+[hostname]
+ssh_only = false
+style = "fg:#1e8449"
+format = ' at [$hostname]($style bold)'
+disabled = false
+
+# Displays the current working directory
+[directory]
+read_only = '🔒'
+style = "fg:#9b59b6"
+read_only_style = "fg:#ff0000"
+format = " in [ $path ]($style bold italic)[$read_only]($read_only_style)"
+truncation_length = 3
+truncation_symbol = "…/"
+
+# Replace some directories with icons, to shorten the path
+#[directory.substitutions]
+#"Documents" = "󰈙 "
+#"Downloads" = " "
+#"Music" = " "
+#"Pictures" = " "
+
+# Displays the time it takes to execute a command
+[cmd_duration]
+min_time = 4
+show_milliseconds = false
+disabled = false
+style = "fg:#de3163 bold italic"
+
+
+# [python]
+# symbol = "🐍 "
+# pyenv_version_name = true
+# format = ' via [${symbol}python (${version} )(\($virtualenv\) )]($style bold)'
+# style = "fg:#7d3c98"
+# pyenv_prefix = "venv "
+# python_binary = ["./venv/bin/python", "python", "python3"]
+# detect_extensions = ["py"]
+# version_format = "v${raw}"
+
+
+[conda]
+symbol = " "
+style = "fg:#7d3c98"
+format = ' via [$symbol$environment]($style bold)'
+disabled = false
+
+[git_branch]
+symbol = ""
+style = "fg:#2e86c1"
+format = ' on [$symbol $branch]($style)'
+
+[git_status]
+style = "fg:#21618c"
+format = '[$all_status$ahead_behind]($style)'
+
+[golang]
+symbol = " "
+style = "fg:#7d3c98"
+format = '[$symbol ($version)]($style)'
+
+
+# [nodejs]
+# symbol = ""
+# style = "fg:#7d3c98"
+# format = '[ $symbol ($version) ]($style)'
+
+# Displays the time in 24hr format
+[time]
+disabled = false
+time_format = "%R" # Hour:Minute Format
+style = "fg:#00aaff"
+format = '[♥ $time]($style bold)'
+
+
+
