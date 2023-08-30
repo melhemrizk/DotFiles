@@ -1,0 +1,21 @@
+00:00:00.235567 VirtualBox GUI VM Selector Window 7.0.10_SUSE r158379 linux.amd64 (no date no time) release log
+00:00:00.235569 Log opened 2023-08-26T18:54:43.457195000Z
+00:00:00.235569 Build Type: release
+00:00:00.235572 OS Product: Linux
+00:00:00.235574 OS Release: 5.14.21-150500.55.19-default
+00:00:00.235575 OS Version: #1 SMP PREEMPT_DYNAMIC Tue Aug 8 22:15:01 UTC 2023 (9908c29)
+00:00:00.235597 DMI Product Name: GL752VW
+00:00:00.235607 DMI Product Version: 1.0       
+00:00:00.235612 Firmware type: UEFI
+00:00:00.235621 Secure Boot: Disabled
+00:00:00.235668 Host RAM: 15883MB (15.5GB) total, 13112MB (12.8GB) available
+00:00:00.235671 Executable: /usr/lib/virtualbox/VirtualBox6
+00:00:00.235672 Process ID: 18623
+00:00:00.235673 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.235693 Qt version: 5.15.8
+00:00:00.236287 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.244403 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.014193 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x0 x 1920x1024
+00:00:01.044655 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:33.234011 GUI: UICommon: Handling aboutToQuit request..
+00:01:33.936600 GUI: UICommon: aboutToQuit request handled!

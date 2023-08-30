@@ -25,7 +25,7 @@ ToolBoxButtonState=topcenter
 ToolBoxButtonX=559
 
 [Containments][1][Wallpaper][org.kde.image][General]
-Image=/home/blackbird/Pictures/Wallpaper/cherry-blossom-tree-1225186_19201.jpg
+Image=/home/blackbird/Pictures/Wallpaper/abstract-multicolored-backdrop-with-flowing-liquid-paint-generative-ai.jpg
 SlidePaths=/usr/share/wallpapers/
 
 [Containments][1][Wallpaper][org.kde.potd][General]
@@ -81,6 +81,22 @@ global=Alt+F1
 [Containments][2][Applets][31][Shortcuts]
 global=Alt+F1
 
+[Containments][2][Applets][32]
+immutability=1
+plugin=org.kde.plasma.advancedradio
+
+[Containments][2][Applets][32][Configuration]
+PreloadWeight=100
+popupHeight=324
+popupWidth=252
+
+[Containments][2][Applets][32][Configuration][ConfigDialog]
+DialogHeight=995
+DialogWidth=1920
+
+[Containments][2][Applets][32][Configuration][General]
+servers=[{"active":true,"hostname":"https://audio.osina.cloud:9323/stream","name":"صوت كل لبنان"},{"active":true,"hostname":"https://l3.itworkscdn.net/itwaudio/9044/stream","name":"Fame FM Lebanon"},{"active":true,"hostname":"http://21223.live.streamtheworld.com:3690/LIGHTFMAAC_SC","name":"Light FM 90.5 & 90.7 Beirut"},{"active":true,"hostname":"https://edge.mixlr.com/channel/qtqeb","name":"Radio Liban Libre"},{"active":true,"hostname":"http://vps1.osina.cloud:9320/;","name":"Sawt Achaab"},{"active":true,"hostname":"https://stream-142.zeno.fm/dwxw3p9vea0uv?zs=YcB-vEV3QZyjpw5uSZ7C4g","name":"Virgin Radio Lebanon"},{"active":true,"hostname":"http://radio.1055rock.gr:30000/1055?ver=334672","name":"1055 Rock Thessaloniki"},{"active":true,"hostname":"https://eco.onestreaming.com:18812/stream","name":"Cosmoradio 95.1"},{"active":true,"hostname":"https://neos.win:59340/stream","name":"Ekfrasi"},{"active":true,"hostname":"http://radiostreaming.ert.gr/ert-deftero","name":"Radio 88miso"},{"active":true,"hostname":"https://metromedia.live24.gr/metropolis955thess","name":"Metropolis"},{"active":true,"hostname":"https://realfm2.live24.gr/realfm","name":"Real FM"},{"active":true,"hostname":"http://tachyon.shoutca.st:8594/stream","name":"RSO 91.7 Thessaloniki"},{"active":true,"hostname":"https://eu1.fastcast4u.com/proxy/nmarog01","name":"ερωτικός"},{"active":true,"hostname":"http://derti.live24.gr/laikos876","name":"Λαϊκός 87,6"},{"active":true,"hostname":"http://eco.onestreaming.com:8054/;","name":"Μελωδικός 105.7"}]
+
 [Containments][2][Applets][4]
 immutability=1
 plugin=org.kde.plasma.pager
@@ -117,7 +133,7 @@ DialogHeight=78
 DialogWidth=1920
 
 [Containments][2][General]
-AppletOrder=31;4;5;6;7;19;20
+AppletOrder=31;4;5;32;6;7;19;20
 
 [Containments][8]
 activityId=
@@ -154,7 +170,7 @@ immutability=1
 plugin=org.kde.plasma.clipboard
 
 [Containments][8][Applets][13][Configuration]
-PreloadWeight=65
+PreloadWeight=70
 
 [Containments][8][Applets][14]
 immutability=1
@@ -205,7 +221,7 @@ immutability=1
 plugin=org.kde.plasma.bluetooth
 
 [Containments][8][Applets][24][Configuration]
-PreloadWeight=89
+PreloadWeight=91
 
 [Containments][8][Applets][26]
 immutability=1
@@ -226,7 +242,7 @@ immutability=1
 plugin=org.kde.plasma.pkupdates
 
 [Containments][8][Applets][9][Configuration]
-PreloadWeight=90
+PreloadWeight=100
 
 [Containments][8][ConfigDialog]
 DialogHeight=540

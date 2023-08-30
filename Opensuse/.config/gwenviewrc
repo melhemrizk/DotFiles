@@ -19,26 +19,26 @@ ToolBarsMovable=Disabled
 eDP-1 Window-Maximized 1920x1080 eDP-1=true
 
 [Recent Files]
-File1[$e]=$HOME/Pictures/Wallpaper/wallpaperflare.com_wallpaper9.jpg
-File10[$e]=$HOME/.local/share/wallpapers/Starry Nebula 219.png
-File2[$e]=$HOME/Pictures/Wallpaper/wallpaperflare.com_wallpaper11.jpg
-File3[$e]=$HOME/.local/share/wallpapers/Aritim-Dark-Wallpaper-1920x1080.jpg
-File4[$e]=$HOME/.local/share/wallpapers/Aritim-Dark-Wallpaper-V2-3840x5376.jpg
-File5[$e]=$HOME/.local/share/wallpapers/KDE Plasma QATAR SKIES 02.png
-File6[$e]=$HOME/.local/share/wallpapers/Next Theme KDE Wallpaper Material Version.png
-File7[$e]=$HOME/.local/share/wallpapers/Aritim-Dark_V5-1920x1280.jpg
-File8[$e]=$HOME/.local/share/wallpapers/Desert Green-No Plasma Logo.jpg
-File9[$e]=$HOME/.local/share/wallpapers/KDE Plasma Scenery 76.png
-Name1[$e]=wallpaperflare.com_wallpaper9.jpg
-Name10[$e]=Starry Nebula 219.png
-Name2[$e]=wallpaperflare.com_wallpaper11.jpg
-Name3[$e]=Aritim-Dark-Wallpaper-1920x1080.jpg
-Name4[$e]=Aritim-Dark-Wallpaper-V2-3840x5376.jpg
-Name5[$e]=KDE Plasma QATAR SKIES 02.png
-Name6[$e]=Next Theme KDE Wallpaper Material Version.png
-Name7[$e]=Aritim-Dark_V5-1920x1280.jpg
-Name8[$e]=Desert Green-No Plasma Logo.jpg
-Name9[$e]=KDE Plasma Scenery 76.png
+File1[$e]=$HOME/Pictures/Wallpaper/wallpaperflare.com_wallpaper12.jpg
+File10[$e]=$HOME/Pictures/Wallpaper/flowers-276014_1920.jpg
+File2[$e]=$HOME/Pictures/Wallpaper/wallpaperflare.com_wallpaper13.jpg
+File3[$e]=$HOME/Pictures/Wallpaper/wallpaperflare.com_wallpaper14.jpg
+File4[$e]=$HOME/Pictures/Wallpaper/wallpaperflare.com_wallpaper15.jpg
+File5[$e]=$HOME/Pictures/Wallpaper/wallpaperflare.com_wallpaper16.jpg
+File6[$e]=$HOME/Pictures/Wallpaper/2148229.jpg
+File7[$e]=$HOME/Pictures/Wallpaper/abstract-multicolored-backdrop-with-flowing-liquid-paint-generative-ai.jpg
+File8[$e]=$HOME/Pictures/Wallpaper/cherry-blossom-tree-1225186_1920.jpg
+File9[$e]=$HOME/Pictures/Wallpaper/cherry-blossom-tree-1225186_19201.jpg
+Name1[$e]=wallpaperflare.com_wallpaper12.jpg
+Name10[$e]=flowers-276014_1920.jpg
+Name2[$e]=wallpaperflare.com_wallpaper13.jpg
+Name3[$e]=wallpaperflare.com_wallpaper14.jpg
+Name4[$e]=wallpaperflare.com_wallpaper15.jpg
+Name5[$e]=wallpaperflare.com_wallpaper16.jpg
+Name6[$e]=2148229.jpg
+Name7[$e]=abstract-multicolored-backdrop-with-flowing-liquid-paint-generative-ai.jpg
+Name8[$e]=cherry-blossom-tree-1225186_1920.jpg
+Name9[$e]=cherry-blossom-tree-1225186_19201.jpg
 
 [SideBar]
 InformationSplitterSizes=212,243

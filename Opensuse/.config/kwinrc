@@ -15,6 +15,9 @@ Rows=2
 Active=true
 NightTemperature=4300
 
+[Plugins]
+desktopchangeosdEnabled=true
+
 [Tiling]
 padding=4
 

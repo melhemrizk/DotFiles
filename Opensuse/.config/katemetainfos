@@ -1,13 +1,25 @@
+[file:///home/blackbird/.alias]
+Bookmarks=
+Checksum=c9b15004d316e9eb60336081e8c669ce8c480ead
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,8,27,17,18,30.085
+URL=file:///home/blackbird/.alias
+
 [file:///home/blackbird/.bashrc]
 Bookmarks=
-Checksum=1b41fa5342db9442294ea31749f21c22ea880591
+Checksum=336d1219d5b8e89910ebe5f57c3651ecd634086e
 Encoding=UTF-8
 Highlighting=Bash
 Highlighting Set By User=false
 Indentation Mode=normal
 Mode=Bash
 Mode Set By User=false
-Time=2023,8,25,22,8,28.5
+Time=2023,8,27,19,30,52.245
 URL=file:///home/blackbird/.bashrc
 
 [file:///home/blackbird/.condarc]
@@ -69,6 +81,18 @@ Mode=XML
 Mode Set By User=false
 Time=2023,8,25,22,4,0.822
 URL=file:///home/blackbird/.config/Kvantum/Layan/Layan.svg
+
+[file:///home/blackbird/.config/alt_starship.toml]
+Bookmarks=
+Checksum=20f4d8216d950944fcc0af075fe11779c5f4ef86
+Encoding=UTF-8
+Highlighting=TOML
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=TOML
+Mode Set By User=false
+Time=2023,8,27,19,15,14.646
+URL=file:///home/blackbird/.config/alt_starship.toml
 
 [file:///home/blackbird/.config/gtk-3.0/colors.css]
 Bookmarks=
@@ -228,15 +252,63 @@ URL=file:///home/blackbird/.config/kdedefaults/plasmarc
 
 [file:///home/blackbird/.config/starship.toml]
 Bookmarks=
-Checksum=5b1046dbbf78e3df25214fd113edb9b0db3d9bc7
+Checksum=1417cbf1610c04c94cc053f3ba3628a5eeb92cb8
 Encoding=UTF-8
 Highlighting=TOML
 Highlighting Set By User=false
 Indentation Mode=normal
 Mode=TOML
 Mode Set By User=false
-Time=2023,8,25,22,10,0.099
+Time=2023,8,29,20,16,31.855
 URL=file:///home/blackbird/.config/starship.toml
+
+[file:///home/blackbird/.config/starship/alt-starship.toml]
+Bookmarks=
+Checksum=908992d39d93a96e2797157e334a1937bbcc3085
+Encoding=UTF-8
+Highlighting=TOML
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=TOML
+Mode Set By User=false
+Time=2023,8,28,13,33,56.38
+URL=file:///home/blackbird/.config/starship/alt-starship.toml
+
+[file:///home/blackbird/.config/starship/alt_starship.toml]
+Bookmarks=
+Checksum=20f4d8216d950944fcc0af075fe11779c5f4ef86
+Encoding=UTF-8
+Highlighting=TOML
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=TOML
+Mode Set By User=false
+Time=2023,8,28,13,13,6.575
+URL=file:///home/blackbird/.config/starship/alt_starship.toml
+
+[file:///home/blackbird/.config/starship/nerd-starship.toml]
+Bookmarks=
+Checksum=36e994b23772fb0f9d47fe5ae26632105017e1fc
+Encoding=UTF-8
+Highlighting=TOML
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=TOML
+Mode Set By User=false
+Time=2023,8,28,13,12,32.092
+URL=file:///home/blackbird/.config/starship/nerd-starship.toml
+
+[file:///home/blackbird/.config/starship/starship.toml]
+Bookmarks=
+Checksum=1417cbf1610c04c94cc053f3ba3628a5eeb92cb8
+Encoding=UTF-8
+Highlighting=TOML
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=TOML
+Mode Set By User=false
+Time=2023,8,28,13,46,1.624
+URL=file:///home/blackbird/.config/starship/starship.toml
 
 [file:///home/blackbird/.icons/Layan-border-cursors/index.theme]
 Bookmarks=
@@ -297,6 +369,18 @@ Mode=Normal
 Mode Set By User=false
 Time=2023,8,17,19,13,28.904
 URL=file:///home/blackbird/.viminfo
+
+[file:///home/blackbird/Documents/Coding/pwsh-commands.yml]
+Bookmarks=
+Checksum=24bcd9d74082d615fb4d83f4b49e822d8c840109
+Encoding=UTF-8
+Highlighting=YAML
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=YAML
+Mode Set By User=false
+Time=2023,8,28,14,46,53.3
+URL=file:///home/blackbird/Documents/Coding/pwsh-commands.yml
 
 [file:///home/blackbird/Documents/DotFiles/.bashrc]
 Bookmarks=
@@ -418,6 +502,18 @@ Mode Set By User=false
 Time=2023,8,24,19,13,4.367
 URL=file:///home/blackbird/Documents/GitHub/Dotfiles/new_install.sh
 
+[file:///home/blackbird/Downloads/Opensuse/VMware-Player-Full-17.0.2-21581411.x86_64.bundle]
+Bookmarks=
+Checksum=9f6713eb6dae17ad8c85ac1db7adac1ef9024c18
+Encoding=ISO-8859-15
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2023,8,26,11,54,43.499
+URL=file:///home/blackbird/Downloads/Opensuse/VMware-Player-Full-17.0.2-21581411.x86_64.bundle
+
 [file:///home/blackbird/Downloads/bashrc]
 Bookmarks=
 Checksum=7fa5d261483829a4088d8d32132360e0cdd51ac1
@@ -427,7 +523,7 @@ Highlighting Set By User=false
 Indentation Mode=normal
 Mode=Bash
 Mode Set By User=false
-Time=2023,8,17,18,29,26.915
+Time=2023,8,26,11,52,18.826
 URL=file:///home/blackbird/Downloads/bashrc
 
 [file:///home/blackbird/Downloads/fonts/NotoEmoji/README.txt]
@@ -442,6 +538,18 @@ Mode Set By User=false
 Time=2023,8,25,18,13,13.451
 URL=file:///home/blackbird/Downloads/fonts/NotoEmoji/README.txt
 
+[file:///home/blackbird/Downloads/pastel-powerline.toml]
+Bookmarks=
+Checksum=df77c83cb111318b332320bf8d56d2f8801664a9
+Encoding=UTF-8
+Highlighting=TOML
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=TOML
+Mode Set By User=false
+Time=2023,8,26,11,52,58.335
+URL=file:///home/blackbird/Downloads/pastel-powerline.toml
+
 [file:///home/blackbird/Downloads/starship.toml]
 Bookmarks=
 Checksum=453ea6ab0c094dd0ad3199546236c5b4f7c2110f
@@ -451,8 +559,20 @@ Highlighting Set By User=false
 Indentation Mode=normal
 Mode=TOML
 Mode Set By User=false
-Time=2023,8,24,14,47,24.15
+Time=2023,8,26,11,53,35.45
 URL=file:///home/blackbird/Downloads/starship.toml
+
+[file:///home/blackbird/Downloads/strarship.toml]
+Bookmarks=
+Checksum=e791d29a54b04c3ed27b945557735d7bfc58f141
+Encoding=UTF-8
+Highlighting=TOML
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=TOML
+Mode Set By User=false
+Time=2023,8,27,19,18,1.688
+URL=file:///home/blackbird/Downloads/strarship.toml
 
 [file:///run/media/blackbird/A132-EEA2/DotFiles/.bashrc]
 Bookmarks=

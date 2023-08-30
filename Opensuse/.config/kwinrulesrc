@@ -3,7 +3,7 @@ update_info=kwinrules.upd:replace-placement-string-to-enum,kwinrules.upd:use-vir
 
 [1]
 Description=Window settings for org.kde.konsole
-opacityactive=95
+opacityactive=99
 opacityactiverule=2
 title=~ : bash — Konsole
 types=1
