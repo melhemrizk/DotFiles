@@ -24,7 +24,7 @@ $conda\
 $time\
 [ ](fg:#00aaff)\
 $cmd_duration
-➜ (fg:#ffffff)
+$character\
 """
 
 # Enable the blank line at the start of the prompt
@@ -35,7 +35,7 @@ add_newline = true
 show_always = true
 style_user = "bg:#ff5500 fg:#ffffff"
 style_root = "bg:#ff0000 fg:#ffffff"
-format = '[$user]($style bold)'
+format = '[☮ $user]($style bold)'
 disabled = false
 
 # Displays a symbol of your operating system. Choose which symbol to display in the [os.symbols] module
@@ -77,6 +77,11 @@ show_milliseconds = false
 disabled = false
 style = "fg:#de3163 bold italic"
 
+[character]
+format = "$symbol "
+success_symbol = "[↪](bold fg:#F94EE6)"
+error_symbol = "[✖](bold fg:#F90000)"
+disabled = false
 
 [python]
 symbol = "🐍 "
@@ -87,7 +92,6 @@ pyenv_prefix = "venv "
 python_binary = ["./venv/bin/python", "python", "python3"]
 detect_extensions = ["py"]
 version_format = "v${raw}"
-
 
 [conda]
 symbol = " "

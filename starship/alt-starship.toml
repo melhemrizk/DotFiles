@@ -72,15 +72,15 @@ disabled = false
 style = "fg:#de3163 bold italic"
 
 
-# [python]
-# symbol = "🐍 "
-# pyenv_version_name = true
-# format = ' via [${symbol}python (${version} )(\($virtualenv\) )]($style bold)'
-# style = "fg:#7d3c98"
-# pyenv_prefix = "venv "
-# python_binary = ["./venv/bin/python", "python", "python3"]
-# detect_extensions = ["py"]
-# version_format = "v${raw}"
+[python]
+symbol = "🐍 "
+pyenv_version_name = true
+format = '[ via ${symbol}python (${version} )(\($virtualenv\) )]($style bold)'
+style = "fg:#7d3c98"
+pyenv_prefix = "venv "
+python_binary = ["./venv/bin/python", "python", "python3"]
+detect_extensions = ["py"]
+version_format = "v${raw}"
 
 
 [conda]
