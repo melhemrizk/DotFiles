@@ -35,7 +35,7 @@ add_newline = true
 show_always = true
 style_user = "bg:#ff5500 fg:#ffffff"
 style_root = "bg:#ff0000 fg:#ffffff"
-format = '[☮ $user]($style bold)'
+format = '[✠ $user]($style bold)'
 disabled = false
 
 # Displays a symbol of your operating system. Choose which symbol to display in the [os.symbols] module
@@ -79,7 +79,7 @@ style = "fg:#de3163 bold italic"
 
 [character]
 format = "$symbol "
-success_symbol = "[↪](bold fg:#F94EE6)"
+success_symbol = "[⤷](bold fg:#fd00d3)"
 error_symbol = "[✖](bold fg:#F90000)"
 disabled = false
 
