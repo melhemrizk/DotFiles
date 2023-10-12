@@ -32,7 +32,6 @@ format = '[$user]($style bold)'
 disabled = false
 
 # Displays a symbol of the operating system. Choose which symbol to to display in the [os.symbols] module
-module
 [os]
 style = "fg:#145a32"
 format = ' using [$symbol]($style bold)'
@@ -102,12 +101,6 @@ format = '[$all_status$ahead_behind]($style)'
 symbol = " "
 style = "fg:#7d3c98"
 format = '[$symbol ($version)]($style)'
-
-
-# [nodejs]
-# symbol = ""
-# style = "fg:#7d3c98"
-# format = '[ $symbol ($version) ]($style)'
 
 # Displays the time in 24hr format
 [time]
