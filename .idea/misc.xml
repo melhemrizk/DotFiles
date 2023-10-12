@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="enabledOnReformat" value="true" />
+    <option name="sdkUUID" value="7faa4c16-3061-4fcf-8dca-cdb8445e43fc" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="$PROJECT_DIR$/../../CodingProjects/Regression/envs" project-jdk-type="Python SDK" />
+</project>
